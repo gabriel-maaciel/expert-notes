@@ -6,7 +6,7 @@
 
 ## 💻 Project
 
-> This is the Expert Notes repository. The main objective is to create a web application that automatic convert audio notes to text.
+> This is the Expert Notes repository. The main objective is to create a web application that automatically converts audio notes to text.
 
 ## Technologies 🚀
 
